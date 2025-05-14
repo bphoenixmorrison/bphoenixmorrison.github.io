@@ -127,7 +127,7 @@ h6 {
  */
 
 .header a {
-  float: center;
+  float: none;
   color: var(--text-color);
   text-align: center;
   text-decoration: none;
